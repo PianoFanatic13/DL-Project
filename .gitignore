@@ -1,0 +1,23 @@
+# Claude Code
+.claude/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated Data - extracted outputs
+data/
+runs/
+
+# OS / misc
+Thumbs.db
+.DS_Store
