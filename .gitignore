@@ -17,6 +17,9 @@ __pycache__/
 # Generated Data - extracted outputs
 data/
 runs/
+synthetic/
+lora_export/
+diffusion_generation.ipynb
 
 # OS / misc
 Thumbs.db
